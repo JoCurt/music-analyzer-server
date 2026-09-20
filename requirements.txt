@@ -1,0 +1,13 @@
+PyYAML==6.0.3
+fastapi-cli==0.0.27
+ipython_pygments_lexers==1.1.1
+jupyter_client==8.9.1
+jupyter_core==5.9.1
+lazy-loader==0.5
+librosa==0.11.0
+mdurl==0.1.2
+pip-chill==1.0.5
+pipreqs==0.4.13
+pydantic_core==2.46.4
+stack-data==0.6.3
+uvicorn==0.49.0
